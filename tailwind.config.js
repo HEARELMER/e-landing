@@ -4,15 +4,14 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        'ligth': '#FFFFFF',
         'primary': {
-          50: '#E2E2D5',
-          100: '#FFCB45',
-          200: '#FFAC4B',
+          100: '##6d28d9'
         },
         'secondary': {
-          100: '#1D1D1D',
-        }
+          100:'#e4e4e4',
+          200:'#ddd6fe',
+          300:'#7c3aed',
+        },
 
       }
     },
